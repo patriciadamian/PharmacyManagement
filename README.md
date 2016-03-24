@@ -1,5 +1,6 @@
 # PharmacyManagement
 C++
+The graphic interface was done using Qt.
 
 John is the administrator of the “Smiles” Pharmacy. He needs a software
 application to help him manage his pharmacy's medication stocks. Each
@@ -20,3 +21,5 @@ c. He wants to be able to see only those medications that are in short supply (q
 items, where the value of X is provided by John).
 
 d. The application must provide the option to undo the last change.
+
+
